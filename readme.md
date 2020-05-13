@@ -8,7 +8,7 @@ Used to learn & refersh react, node, jest and docker knowledge.
 - docker based local environment
 - yarn packaging
 - TDD with jest
-- few modifications to make the test cases pass without docker setup too
+- few modifications to make the test cases pass without docker setup too, mysql to mariadb, etc...
 
 ```bash
 ➜ SQLITE_DB_LOCATION=~/tmp/todo.db yarn test
